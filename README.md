@@ -13,6 +13,7 @@
 * 💼 **INIT Corporation** — Building **INIT NEXT**
 * 🛠️ **[LinkedInWallet](https://linkedinwallet.com/)** — Creates Apple/Google Wallet passes for your linkedin profile *(scaled to **[4,400+](https://lnkd.in/p/eEV7nwc2) users**)*.
 * 🌐 **Open-Source Infrastructure** — Actively contributing to **Meta's** distributed compute engine ([Velox](https://github.com/facebookincubator/velox)) and styling framework ([Stylex](https://github.com/facebook/stylex))
+* **[QuickReels](https://devpost.com/software/quickreels)** - Won 1st place at University of Miami Horizon AI Hackathon 2025. Enables you to generate short form content (“reels”) automatically from a longer video, highlighting the best, most engaging moments.
 
 ---
 
