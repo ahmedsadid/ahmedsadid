@@ -11,7 +11,7 @@
 ### 🚀 What I'm Working On
 
 * 💼 **INIT Corporation** — Building **INIT NEXT**
-* 🛠️ **[LinkedInWallet](https://linkedinwallet.com/)** — Creates Apple/Google Wallet passes for your linkedin profile *(scaled to **[4,400+](https://lnkd.in/p/eEV7nwc2) users**)*.
+* 🛠️ **[LinkedInWallet](https://linkedinwallet.com/)** — Creates Apple/Google Wallet passes for your linkedin profile *(scaled to **[5,000+](https://lnkd.in/p/eEV7nwc2) users**)*.
 * 🌐 **Open-Source Infrastructure** — Actively contributing to **Meta's** distributed compute engine ([Velox](https://github.com/facebookincubator/velox)) and styling framework ([Stylex](https://github.com/facebook/stylex))
 * **[QuickReels](https://devpost.com/software/quickreels)** - Won 1st place at University of Miami Horizon AI Hackathon 2025. Enables you to generate short form content (“reels”) automatically from a longer video, highlighting the best, most engaging moments.
 
@@ -30,5 +30,9 @@
   Updated stale Node.js engine and workflow specifications across contributor documentation.
 
 #### ⚡ [facebookincubator / velox](https://github.com/facebookincubator/velox)
-* **fix(hive)!: Clone shared writer options per sink** ([#18482](https://github.com/facebookincubator/velox/pull/18482)) — *Under Review*  
+* **fix(hive): Clone shared writer options per sink** ([#18482](https://github.com/facebookincubator/velox/pull/18482)) —  *Approved / Merged*  
   Resolved data-race/isolation edge cases in Hive connector by enforcing per-sink deep copies of shared writer configurations.
+* **fix(aggregation): Avoid double extraction of distinct aggregates** ([#19045](https://github.com/facebookincubator/velox/pull/19045)) —  *Under Review*  
+  Fixes DISTINCT aggregate extraction failure to correctly derive approx_percentile.
+  
+  
